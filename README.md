@@ -5,7 +5,7 @@
 ---
 
 ## Summary of Qualifications  
-Experienced and resourceful Zendesk Support engineer with strong dedication to continuous learning and a deep sense of ownership, recognized and trusted by colleagues and leadership alike. Fearless in tackling complex, challenging tasks and determined to identify root causes for thorough issue resolution. Skilled mentor aiding onboarding and upskilling of new hires and T1 colleagues transitioning to T2.
+Experienced and resourceful Zendesk Support Engineer with strong dedication to continuous learning and a deep sense of ownership, recognized and trusted by colleagues and leadership alike. Fearless in tackling complex, challenging tasks and determined to identify root causes for thorough issue resolution. Mentor onboarding and upskilling of new hires and T1 colleagues transitioning to T2.
 
 ---
 

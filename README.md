@@ -42,7 +42,7 @@ Experienced and resourceful Zendesk Support engineer with strong dedication to c
 
 **CS50P (Harvard)** - Python programming 
 - Final project: Command-line app retrieving historical cryptocurrency prices from Binance via programmatically API calls
-- GitHub: [[Github repo](https://github.com/me50/jdonca.git)
+- GitHub: [Github repo](https://github.com/me50/jdonca.git)
 
 **CompTIA Certifications:**  
 - Network+  

@@ -38,11 +38,11 @@ Experienced and resourceful Zendesk Support Engineer with strong dedication to c
 
 **CS50x (Harvard)** – C, Python, SQL, JavaScript, HTML, and CSS. Data structures and algorithms, Web Development fundamentals including Flask.
 - Final project: Dynamic CRUD web app using Flask, Python, Jinja, SQL, and JavaScript; extracts and uploads data from PDFs
-- GitHub: [Github repo](https://github.com/jdonca/BTCdomCheck-App.git)
+- GitHub: [Github repo](https://github.com/jdonca/data-extractor)
 
 **CS50P (Harvard)** - Python programming 
 - Final project: Command-line app retrieving historical cryptocurrency prices from Binance via programmatically API calls
-- GitHub: [Github repo](https://github.com/me50/jdonca.git)
+- GitHub: [Github repo](https://github.com/jdonca/BTCdomCheck-App)
 
 **CompTIA Certifications:**  
 - Network+  
